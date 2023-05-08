@@ -12,7 +12,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/360影视.json"
+            "ext": "./菜妮丝/json/360影视.json"
         },
         {
             "key": "布蕾影城",
@@ -69,7 +69,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/农民影视.json"
+            "ext": "./菜妮丝/json/农民影视.json"
         },
         {
             "key": "VOFLIX",
@@ -107,7 +107,7 @@
             "api": "csp_AList",
             "searchable": 1,
             "filterable": 1,
-            "ext": "./json/AList.json"
+            "ext": "./菜妮丝/json/AList.json"
         },
         {
             "key": "csp_Paper",
@@ -142,11 +142,11 @@
             "key": "鸭奈飞",
             "name": "鸭奈飞┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./菜妮丝/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/鸭奈飞.js"
+            "ext": "./菜妮丝/js/鸭奈飞.js"
         },
         {
             "key": "csp_77",
@@ -165,7 +165,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/快看影视.json"
+            "ext": "./菜妮丝/json/快看影视.json"
         },
         {
             "key": "Kuaikan",
@@ -184,7 +184,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/LIBVIO.json"
+            "ext": "./菜妮丝/json/LIBVIO.json"
         },
         {
             "key": "乐猪TV",
@@ -194,7 +194,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/乐猪TV.json"
+            "ext": "./菜妮丝/json/乐猪TV.json"
         },
         {
             "key": "秋霞影视",
@@ -204,7 +204,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/秋霞影视.json"
+            "ext": "./菜妮丝/json/秋霞影视.json"
         },
         {
             "key": "csp_apple",
@@ -223,17 +223,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/神马影院.json"
+            "ext": "./菜妮丝/json/神马影院.json"
         },
         {
             "key": "饭团影视",
             "name": "饭团┃影视1",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./菜妮丝/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/饭团影视.js"
+            "ext": "./菜妮丝/js/饭团影视.js"
         },
         {
             "key": "饭团影院",
@@ -243,7 +243,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/饭团影院.json"
+            "ext": "./菜妮丝/json/饭团影院.json"
         },
         {
             "key": "零零七影视",
@@ -253,17 +253,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/零零七影视.json"
+            "ext": "./菜妮丝/json/零零七影视.json"
         },
         {
             "key": "双十电影",
             "name": "双十┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./菜妮丝/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/双十电影.js"
+            "ext": "./菜妮丝/js/双十电影.js"
         },
         {
             "key": "映迷",
@@ -273,17 +273,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/映迷.json"
+            "ext": "./菜妮丝/json/映迷.json"
         },
         {
             "key": "TVB云播",
             "name": "TVB云播┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./菜妮丝/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/TVB云播.js"
+            "ext": "./菜妮丝/js/TVB云播.js"
         },
         {
             "key": "555电影",
@@ -293,7 +293,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/555电影.json"
+            "ext": "./菜妮丝/json/555电影.json"
         },
         {
             "key": "大米星球",
@@ -303,17 +303,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/大米星球.json"
+            "ext": "./菜妮丝/json/大米星球.json"
         },
         {
             "key": "美剧网",
             "name": "美剧┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./菜妮丝/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/美剧网.js"
+            "ext": "./菜妮丝/js/美剧网.js"
         },
         {
             "key": "口袋影院",
@@ -323,7 +323,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/口袋影院.json"
+            "ext": "./菜妮丝/json/口袋影院.json"
         },
         {
             "key": "二三三动漫",
@@ -333,7 +333,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/二三三动漫.json"
+            "ext": "./菜妮丝/json/二三三动漫.json"
         },
         {
             "key": "Dm84",
@@ -402,11 +402,11 @@
             "key": "139影视",
             "name": "139┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./菜妮丝/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/139影视.js"
+            "ext": "./菜妮丝/js/139影视.js"
         },
         {
             "key": "野荷塘",
@@ -416,17 +416,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/野荷塘.json"
+            "ext": "./菜妮丝/json/野荷塘.json"
         },
         {
             "key": "无名小站",
             "name": "无名┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./菜妮丝/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/无名小站.js"
+            "ext": "./菜妮丝/js/无名小站.js"
         },
         {
             "key": "素白白影视",
@@ -436,7 +436,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/素白白影视.json"
+            "ext": "./菜妮丝/json/素白白影视.json"
         },
         {
             "key": "FreeOK",
@@ -446,7 +446,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/FreeOK.json"
+            "ext": "./菜妮丝/json/FreeOK.json"
         },
         {
             "key": "热播库",
@@ -456,7 +456,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/热播库.json"
+            "ext": "./菜妮丝/json/热播库.json"
         },
         {
             "key": "莫扎兔",
@@ -466,7 +466,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/莫扎兔.json"
+            "ext": "./菜妮丝/json/莫扎兔.json"
         },
         {
             "key": "干饭影视",
@@ -476,7 +476,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/干饭影视.json"
+            "ext": "./菜妮丝/json/干饭影视.json"
         },
         {
             "key": "爱看影视",
@@ -486,17 +486,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/爱看影视.json"
+            "ext": "./菜妮丝/json/爱看影视.json"
         },
         {
             "key": "城市电影",
             "name": "城市┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./菜妮丝/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/城市电影.js"
+            "ext": "./菜妮丝/js/城市电影.js"
         },
         {
             "key": "188影视",
@@ -506,7 +506,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/188影视.json"
+            "ext": "./菜妮丝/json/188影视.json"
         },
         {
             "key": "真不卡影院",
@@ -516,7 +516,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/真不卡影院.json"
+            "ext": "./菜妮丝/json/真不卡影院.json"
         },
         {
             "key": "凌云影视",
@@ -526,17 +526,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/凌云影视.json"
+            "ext": "./菜妮丝/json/凌云影视.json"
         },
         {
             "key": "吼吼",
             "name": "吼吼┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./菜妮丝/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/吼吼.js"
+            "ext": "./菜妮丝/js/吼吼.js"
         },
         {
             "key": "看一看影视",
@@ -546,7 +546,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/看一看影视.json"
+            "ext": "./菜妮丝/json/看一看影视.json"
         },
         {
             "key": "奇优影院",
@@ -556,17 +556,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/奇优影院.json"
+            "ext": "./菜妮丝/json/奇优影院.json"
         },
         {
             "key": "兰花影院",
             "name": "兰花┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./菜妮丝/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/兰花影院.js"
+            "ext": "./菜妮丝/js/兰花影院.js"
         },
         {
             "key": "Vidhub",
@@ -576,7 +576,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/Vidhub.json"
+            "ext": "./菜妮丝/json/Vidhub.json"
         },
         {
             "key": "冷曦影视",
@@ -586,7 +586,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/冷曦影视.json"
+            "ext": "./菜妮丝/json/冷曦影视.json"
         },
         {
             "key": "NikeTV",
@@ -596,7 +596,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/NikeTV.json"
+            "ext": "./菜妮丝/json/NikeTV.json"
         },
         {
             "key": "APP影院",
@@ -606,7 +606,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/APP影院.json"
+            "ext": "./菜妮丝/json/APP影院.json"
         },
         {
             "key": "剧白白",
@@ -616,7 +616,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/剧白白.json"
+            "ext": "./菜妮丝/json/剧白白.json"
         },
         {
             "key": "追剧啦",
@@ -626,7 +626,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/追剧啦.json"
+            "ext": "./菜妮丝/json/追剧啦.json"
         },
         {
             "key": "霹雳影视",
@@ -636,7 +636,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/霹雳影视.json"
+            "ext": "./菜妮丝/json/霹雳影视.json"
         },
         {
             "key": "万博剧院",
@@ -646,7 +646,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/万博剧院.json"
+            "ext": "./菜妮丝/json/万博剧院.json"
         },
         {
             "key": "兔兔瓜",
@@ -656,7 +656,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/兔兔瓜.json"
+            "ext": "./菜妮丝/json/兔兔瓜.json"
         },
         {
             "key": "csp_Nbys",
@@ -684,7 +684,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/短视频.json"
+            "ext": "./菜妮丝/json/短视频.json"
         },
         {
             "key": "酷奇MV",
@@ -694,7 +694,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/酷奇MV.json"
+            "ext": "./菜妮丝/json/酷奇MV.json"
         },
         {
             "key": "csp_BBB",
@@ -704,7 +704,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/哔哩哔哩合集.json"
+            "ext": "./菜妮丝/json/哔哩哔哩合集.json"
         },
         {
             "key": "csp_戏曲",
@@ -714,7 +714,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/哔哩哔哩戏曲.json"
+            "ext": "./菜妮丝/json/哔哩哔哩戏曲.json"
         },
         {
             "key": "演唱会",
@@ -724,14 +724,14 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/哔哩哔哩音乐.json"
+            "ext": "./菜妮丝/json/哔哩哔哩音乐.json"
         },
         {
             "key": "兔小贝",
             "name": "📚儿童┃启蒙",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/兔小贝.js",
+            "api": "./菜妮丝/drpy2.min.js",
+            "ext": "./菜妮丝/js/兔小贝.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
@@ -744,7 +744,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/哔哩哔哩少儿.json"
+            "ext": "./菜妮丝/json/哔哩哔哩少儿.json"
         },
         {
             "key": "小学",
@@ -754,7 +754,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/哔哩哔哩小学.json"
+            "ext": "./菜妮丝/json/哔哩哔哩小学.json"
         },
         {
             "key": "初中",
@@ -764,7 +764,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/哔哩哔哩初中.json"
+            "ext": "./菜妮丝/json/哔哩哔哩初中.json"
         },
         {
             "key": "高中",
@@ -774,7 +774,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/哔哩哔哩高中.json"
+            "ext": "./菜妮丝/json/哔哩哔哩高中.json"
         },
         {
             "key": "网红直播",
@@ -789,8 +789,8 @@
             "key": "js虎牙",
             "name": "虎牙┃直播",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/虎牙直播.js",
+            "api": "./菜妮丝/drpy2.min.js",
+            "ext": "./菜妮丝/js/虎牙直播.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
@@ -803,7 +803,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/斗鱼直播.json"
+            "ext": "./菜妮丝/json/斗鱼直播.json"
         },
         {
             "key": "企鹅体育",
@@ -813,14 +813,14 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/企鹅体育.json"
+            "ext": "./菜妮丝/json/企鹅体育.json"
         },
         {
             "key": "88js",
             "name": "88┃看球",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/88看球.js",
+            "api": "./菜妮丝/drpy2.min.js",
+            "ext": "./菜妮丝/js/88看球.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
@@ -829,11 +829,11 @@
             "key": "JRKAN直播",
             "name": "JRKAN┃看球",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./菜妮丝/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./js/JRKAN直播.js"
+            "ext": "./菜妮丝/js/JRKAN直播.js"
         },
         {
             "key": "csp_XYQBiu_310直播",
@@ -843,7 +843,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/310直播.json"
+            "ext": "./菜妮丝/json/310直播.json"
         },
         {
             "key": "csp_search_Yisou",
@@ -1305,13 +1305,13 @@
             ]
         }
     ],
-    "spider": "./spider.jar",
+    "spider": "./菜妮丝/spider.jar",
     "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
     "lives": [
         {
             "name": "live",
             "type": 0,
-            "url": "./live.txt",
+            "url": "./菜妮丝/live.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ]

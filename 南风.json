@@ -1,7 +1,7 @@
 //关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
-    "spider": "./spider.jar",
+    "spider": "./南风/spider.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
@@ -17,17 +17,17 @@
             "key": "dr_豆瓣",
             "name": "🔍豆瓣",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./南风/drpy2.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/豆瓣.js"
+            "ext": "./南风/js/豆瓣.js"
         },
         {
             "key": "直播",
             "name": "💻电视直播",
             "type": 3,
-            "api": "./直播转点播.js",
+            "api": "./南风/直播转点播.js",
             "ext": "南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"
         },
         {
@@ -219,7 +219,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/Nmys.json"
+            "ext": "./南风/json/Nmys.json"
         },
         {
             "key": "csp_Ysgc",
@@ -355,7 +355,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-            "jar": "./jars/Gitcafe.jar"
+            "jar": "./南风/jars/Gitcafe.jar"
         },
         {
             "key": "Dovx",
@@ -378,7 +378,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-            "jar": "./jars/Gitcafe.jar"
+            "jar": "./南风/jars/Gitcafe.jar"
         },
         {
             "key": "Zhaozy",
@@ -458,7 +458,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/野荷塘影院.json"
+            "ext": "./南风/json/野荷塘影院.json"
         },
         {
             "key": "csp_XBPQ_ 咕噜咕噜",
@@ -468,7 +468,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./json/咕噜咕噜.json"
+            "ext": "./南风/json/咕噜咕噜.json"
         },
         {
             "key": "csp_XBPQ_ 零零七",
@@ -478,7 +478,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./json/零零七影视.json"
+            "ext": "./南风/json/零零七影视.json"
         },
         {
             "key": "csp_XBPQ_乐猪",
@@ -488,7 +488,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/乐猪.json"
+            "ext": "./南风/json/乐猪.json"
         },
         {
             "key": "csp_XYQHiker_有声小说吧",
@@ -498,47 +498,47 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/有声小说吧.json"
+            "ext": "./南风/json/有声小说吧.json"
         },
         {
             "key": "dr_88看球",
             "name": "88看球",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./南风/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/88看球.js"
+            "ext": "./南风/js/88看球.js"
         },
         {
             "key": "dr_JRKAN直播",
             "name": "JRKAN直播",
             "type": 3,
-            "api": "./drpy.min.js",
+            "api": "./南风/drpy.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/JRKAN直播.js"
+            "ext": "./南风/js/JRKAN直播.js"
         },
         {
             "key": "dr_虎牙直播",
             "name": "虎牙直播",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./南风/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/虎牙直播.js"
+            "ext": "./南风/js/虎牙直播.js"
         },
         {
             "key": "dr_兔小贝",
             "name": "兔小贝",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./南风/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/兔小贝.js"
+            "ext": "./南风/js/兔小贝.js"
         },
         {
             "key": "csp_XBPQ_短视频",
@@ -548,7 +548,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/短视频.json"
+            "ext": "./南风/json/短视频.json"
         },
         {
             "key": "csp_XYQHiker_虎牙",
@@ -558,7 +558,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/虎牙.json"
+            "ext": "./南风/json/虎牙.json"
         },
         {
             "key": "csp_XYQBiu_斗鱼",
@@ -568,7 +568,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/斗鱼.json"
+            "ext": "./南风/json/斗鱼.json"
         },
         {
             "key": "csp_xpath_kuqimv",
@@ -578,7 +578,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/kuqimv.json"
+            "ext": "./南风/json/kuqimv.json"
         },
         {
             "key": "csp_xpath_A33",
@@ -588,7 +588,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/mtv.json"
+            "ext": "./南风/json/mtv.json"
         },
         {
             "key": "csp_Bili",
@@ -598,7 +598,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/Bili.json"
+            "ext": "./南风/json/Bili.json"
         },
         {
             "key": "相声小品",
@@ -608,7 +608,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/Blixs.json"
+            "ext": "./南风/json/Blixs.json"
         },
         {
             "key": "戏 曲",
@@ -618,7 +618,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/Blixq.json"
+            "ext": "./南风/json/Blixq.json"
         }
     ],
     "parses": [
@@ -772,7 +772,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "./live.txt",
+            "url": "./南风/live.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],

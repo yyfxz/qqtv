@@ -1,7 +1,7 @@
 //关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
-    "spider": "./spider.jar",
+    "spider": "./夜猫子/spider.jar",
     "warningText": "🐱夜猫子提醒您: 云盘播放不了的 请切换解码器为ljk看普画🐱",
     "sites": [
         {
@@ -18,8 +18,8 @@
             "key": "drpy_js_腾云驾雾",
             "name": "官源 | 🐧",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/腾讯.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/腾讯.js"
         },
         {
             "key": "Qtv",
@@ -35,8 +35,8 @@
             "key": "drpy_js_百忙无果",
             "name": "官源 | 🥭",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/百忙无果.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/百忙无果.js"
         },
         {
             "key": "Mtv",
@@ -52,8 +52,8 @@
             "key": "drpy_js_奇珍异兽",
             "name": "官源 |🥝",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/奇珍异兽.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/奇珍异兽.js"
         },
         {
             "key": "Itv",
@@ -69,15 +69,15 @@
             "key": "drpy_yh",
             "name": "官源 | ⛽",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/优酷.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/优酷.js"
         },
         {
             "key": "drpy_js_菜狗",
             "name": "官源 | 🐕",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/菜狗.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/菜狗.js"
         },
         {
             "key": "csp_XBPQxg",
@@ -87,7 +87,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/西瓜影视.json"
+            "ext": "./夜猫子/json/西瓜影视.json"
         },
         {
             "key": "csp_XBPQ_看看影院",
@@ -97,7 +97,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/看看剧.json"
+            "ext": "./夜猫子/json/看看剧.json"
         },
         {
             "key": "csp_XBPQ_rb影院",
@@ -107,7 +107,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/热播之家.json"
+            "ext": "./夜猫子/json/热播之家.json"
         },
         {
             "key": "csp_XBPQ_hdmoli",
@@ -127,7 +127,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/魔力影视.json"
+            "ext": "./夜猫子/json/魔力影视.json"
         },
         {
             "key": "csp_XBPQ_ysdq",
@@ -137,7 +137,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/影视大全.json"
+            "ext": "./夜猫子/json/影视大全.json"
         },
         {
             "key": "csp_XBPQ_yl影院",
@@ -147,7 +147,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/御龙高清.json"
+            "ext": "./夜猫子/json/御龙高清.json"
         },
         {
             "key": "csp_Cokemv",
@@ -223,7 +223,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/土豪影视.json"
+            "ext": "./夜猫子/json/土豪影视.json"
         },
         {
             "key": "csp_XBPQ_大豆影院",
@@ -233,7 +233,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/大豆高清.json"
+            "ext": "./夜猫子/json/大豆高清.json"
         },
         {
             "key": "csp_XBPQsg",
@@ -243,7 +243,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/思古.json"
+            "ext": "./夜猫子/json/思古.json"
         },
         {
             "key": "csp_XBPQqiy",
@@ -253,7 +253,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/奇优影视.json"
+            "ext": "./夜猫子/json/奇优影视.json"
         },
         {
             "key": "csp_XBPQzr",
@@ -263,7 +263,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/孜然影视.json"
+            "ext": "./夜猫子/json/孜然影视.json"
         },
         {
             "key": "csp_XYQHiker_爱看影视",
@@ -273,7 +273,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/爱看影视.json"
+            "ext": "./夜猫子/json/爱看影视.json"
         },
         {
             "key": "csp_XBPQ_jbb",
@@ -283,7 +283,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/剧白白.json"
+            "ext": "./夜猫子/json/剧白白.json"
         },
         {
             "key": "csp_xBPQssi",
@@ -293,7 +293,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/双十影视.json"
+            "ext": "./夜猫子/json/双十影视.json"
         },
         {
             "key": "csp_xBPQ端木",
@@ -303,7 +303,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/端木蓝光.json"
+            "ext": "./夜猫子/json/端木蓝光.json"
         },
         {
             "key": "csp_Nmys",
@@ -313,7 +313,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/nmys.json"
+            "ext": "./夜猫子/json/nmys.json"
         },
         {
             "key": "csp_xpath_yinfans",
@@ -323,7 +323,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/音范丝.json"
+            "ext": "./夜猫子/json/音范丝.json"
         },
         {
             "key": "csp_BuLei",
@@ -343,7 +343,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "ext": "./json/539影视.json"
+            "ext": "./夜猫子/json/539影视.json"
         },
         {
             "key": "XBPQ_fant",
@@ -353,17 +353,17 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "ext": "./json/饭团影视.json"
+            "ext": "./夜猫子/json/饭团影视.json"
         },
         {
             "key": "js_dd",
             "name": "🧆大豆影院",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./夜猫子/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./js/大豆.js"
+            "ext": "./夜猫子/js/大豆.js"
         },
         {
             "key": "csp_555",
@@ -384,7 +384,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/我爱看.json"
+            "ext": "./夜猫子/json/我爱看.json"
         },
         {
             "key": "csp_XYQHiker_臭蛋蛋影视",
@@ -394,7 +394,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/1681153396.json"
+            "ext": "./夜猫子/json/1681153396.json"
         },
         {
             "key": "csp_XYQHiker_野荷塘影院",
@@ -404,7 +404,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/野荷塘影院.json"
+            "ext": "./夜猫子/json/野荷塘影院.json"
         },
         {
             "key": "csp_XBPQ秋霞影视",
@@ -430,7 +430,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/1681132551.json"
+            "ext": "./夜猫子/json/1681132551.json"
         },
         {
             "key": "csp_XYQHikerdyx",
@@ -440,8 +440,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/电影港磁力.json",
-            "jar": "./jars/csp_XYQHikerdyx.jar"
+            "ext": "./夜猫子/json/电影港磁力.json",
+            "jar": "./夜猫子/jars/csp_XYQHikerdyx.jar"
         },
         {
             "key": "csp_XB233动漫",
@@ -461,7 +461,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/98影院.json"
+            "ext": "./夜猫子/json/98影院.json"
         },
         {
             "key": "csp_apple",
@@ -477,8 +477,8 @@
             "key": "drpy_酷云七七",
             "name": "🌈┃七七┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/酷云77.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/酷云77.js"
         },
         {
             "key": "csp_appysv2_555电影",
@@ -498,8 +498,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/无名小站.json",
-            "jar": "./jars/csp_XBPQ.jar"
+            "ext": "./夜猫子/json/无名小站.json",
+            "jar": "./夜猫子/jars/csp_XBPQ.jar"
         },
         {
             "key": "csp_YQKAPP",
@@ -618,43 +618,43 @@
             "key": "drpy_bllg",
             "name": "🙈布雷js",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/布雷蓝光.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/布雷蓝光.js"
         },
         {
             "key": "drpy_qy",
             "name": "🐵奇优影院",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/奇优影院.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/奇优影院.js"
         },
         {
             "key": "drpy_yak",
             "name": "😻粤爱看",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/粤爱看.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/粤爱看.js"
         },
         {
             "key": "drpy_tvb",
             "name": "☁️云播",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/云播.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/云播.js"
         },
         {
             "key": "drpy_kkw",
             "name": "🛖看看屋",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/看看屋.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/看看屋.js"
         },
         {
             "key": "drpy_ld",
             "name": "☃️零度影视",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/零度影视.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/零度影视.js"
         },
         {
             "key": "XBPQsj",
@@ -664,7 +664,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "ext": "./json/6080.json"
+            "ext": "./夜猫子/json/6080.json"
         },
         {
             "key": "csp_Nbys",
@@ -674,14 +674,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jars/csp_Nbys.jar"
+            "jar": "./夜猫子/jars/csp_Nbys.jar"
         },
         {
             "key": "drpy_xb",
             "name": "🛫小宝影视(墙外)",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/小宝影院.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/小宝影院.js"
         },
         {
             "key": "csp_XBPQaol",
@@ -691,70 +691,70 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/爱欧乐影视.json"
+            "ext": "./夜猫子/json/爱欧乐影视.json"
         },
         {
             "key": "drpy_101",
             "name": "🛫If101(墙外)",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/if101[飞].js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/if101[飞].js"
         },
         {
             "key": "drpy_trj",
             "name": "🛫唐人街(墙外)",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/唐人街影视[飞].js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/唐人街影视[飞].js"
         },
         {
             "key": "drpy_hh",
             "name": "🛫吼吼影视(墙外)",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/HoHo影视.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/HoHo影视.js"
         },
         {
             "key": "drpy_ol",
             "name": "🛫欧乐影视(墙外)",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/欧乐影院.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/欧乐影院.js"
         },
         {
             "key": "drpy_od",
             "name": "🛫欧帝影视(墙外)",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/欧帝影院.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/欧帝影院.js"
         },
         {
             "key": "drpy_dbk",
             "name": "🛫独播影视(墙外)",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/独播库[飞].js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/独播库[飞].js"
         },
         {
             "key": "drpy_js_楚门影院.js]",
             "name": " 🛫| 楚门影院.js",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/楚门影院.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/楚门影院.js"
         },
         {
             "key": "drpy_hwk",
             "name": "🛫海外看影视(墙外)",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/海外看影院.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/海外看影院.js"
         },
         {
             "key": "drpy_kb",
             "name": "🛫酷播影视(墙外)",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/KUBO影视[飞].js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/KUBO影视[飞].js"
         },
         {
             "key": "csp_WoGG",
@@ -825,7 +825,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-            "jar": "./jars/Gitcafe.jar"
+            "jar": "./夜猫子/jars/Gitcafe.jar"
         },
         {
             "key": "csp_Zhaozy",
@@ -836,7 +836,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-            "jar": "./jars/Gitcafe.jar"
+            "jar": "./夜猫子/jars/Gitcafe.jar"
         },
         {
             "key": "csp_AliPS",
@@ -847,7 +847,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-            "jar": "./jars/Gitcafe.jar"
+            "jar": "./夜猫子/jars/Gitcafe.jar"
         },
         {
             "key": "csp_Yisou",
@@ -858,7 +858,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-            "jar": "./jars/Gitcafe.jar"
+            "jar": "./夜猫子/jars/Gitcafe.jar"
         },
         {
             "key": "csp_Upyunso",
@@ -869,14 +869,14 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-            "jar": "./jars/Gitcafe.jar"
+            "jar": "./夜猫子/jars/Gitcafe.jar"
         },
         {
             "key": "电视直播",
             "name": "🎦直播转换",
             "type": 3,
-            "api": "./直播转点播.js",
-            "ext": "./lives/$$$太阳直播$http://9xi4o.tk/sub/mytv.txt#吾爱直播$http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0#饭太硬直播$http://ftyyy.tk/live.txt"
+            "api": "./夜猫子/直播转点播.js",
+            "ext": "./夜猫子/lives/$$$太阳直播$http://9xi4o.tk/sub/mytv.txt#吾爱直播$http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0#饭太硬直播$http://ftyyy.tk/live.txt"
         },
         {
             "key": "csp_XYQHiker_虎牙直播",
@@ -886,14 +886,14 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/虎牙直播.json"
+            "ext": "./夜猫子/json/虎牙直播.json"
         },
         {
             "key": "drpy_douy",
             "name": "🐅虎牙js",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/虎牙直播.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/虎牙直播.js"
         },
         {
             "key": "csp_XYQBiu_斗鱼",
@@ -919,8 +919,8 @@
             "key": "drpy_js_88看球",
             "name": "🎅🏻| 88看球[js]",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/88看球.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/88看球.js"
         },
         {
             "key": "PQ_ry",
@@ -944,24 +944,24 @@
             "key": "js_DJ",
             "name": "🎧DJ┃摇摆吧",
             "type": 3,
-            "api": "./drpy.min.js",
-            "ext": "./js/DJ音乐.js",
+            "api": "./夜猫子/drpy.min.js",
+            "ext": "./夜猫子/js/DJ音乐.js",
             "playerType": "2"
         },
         {
             "key": "drpy_qf",
             "name": "清风DJ",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/清风DJ.js"
+            "api": "./夜猫子/drpy2.min.js",
+            "ext": "./夜猫子/js/清风DJ.js"
         },
         {
             "key": "drpy_js_蜻蜓FM",
             "name": "📻┃蜻蜓┃收音",
             "type": 3,
-            "api": "./drpy.min.js",
-            "ext": "./js/蜻蜓FM.js",
-            "jar": "./jars/drpy_js_蜻蜓FM.jar"
+            "api": "./夜猫子/drpy.min.js",
+            "ext": "./夜猫子/js/蜻蜓FM.js",
+            "jar": "./夜猫子/jars/drpy_js_蜻蜓FM.jar"
         },
         {
             "key": "Alist2",
@@ -970,8 +970,8 @@
             "api": "csp_AList",
             "searchable": 1,
             "filterable": 1,
-            "ext": "./json/alist3.json",
-            "jar": "./jars/Alist2.jar"
+            "ext": "./夜猫子/json/alist3.json",
+            "jar": "./夜猫子/jars/Alist2.jar"
         },
         {
             "key": "push_agent",
