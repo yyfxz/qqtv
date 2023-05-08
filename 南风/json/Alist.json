@@ -1,0 +1,20 @@
+{
+  "drives": [
+    {
+      "name": "小雅",
+      "server": "http://alist.xiaoya.pro"
+    },
+    {
+      "name": "星梦",
+      "server": "https://pan.bashroot.top"
+    },
+    {
+      "name": "一只鱼",
+      "server": "https://alist.youte.ml"
+    },
+    {
+      "name": "七米蓝",
+      "server": "https://al.chirmyram.com"
+    }
+  ]
+}
