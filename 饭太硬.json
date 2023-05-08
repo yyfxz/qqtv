@@ -1,15 +1,15 @@
 //关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
-    "spider": "./spider.jar",
+    "spider": "./饭太硬/spider.jar",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "sites": [
         {
             "key": "js豆瓣",
             "name": "🅱豆豆┃需本地包【影视范】公众号找本地佬",
             "type": 3,
-            "api": "./drpy.min.js",
-            "ext": "./js/drpy.js",
+            "api": "./饭太硬/drpy.min.js",
+            "ext": "./饭太硬/js/drpy.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -23,7 +23,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
-            "ext": "./json/alist.json"
+            "ext": "./饭太硬/json/alist.json"
         },
         {
             "key": "csp_Bili",
@@ -34,7 +34,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
-            "ext": "./json/bilibili.json"
+            "ext": "./饭太硬/json/bilibili.json"
         },
         {
             "key": "csp_Biliych",
@@ -45,7 +45,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "./json/biliych.json"
+            "ext": "./饭太硬/json/biliych.json"
         },
         {
             "key": "csp_WoGG",
@@ -266,7 +266,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/nmys.json"
+            "ext": "./饭太硬/json/nmys.json"
         },
         {
             "key": "csp_Ysgc",
@@ -396,8 +396,8 @@
             "key": "88js",
             "name": "⚽ 88┃看球",
             "type": 3,
-            "api": "./drpy.min.js",
-            "ext": "./js/88看球.js",
+            "api": "./饭太硬/drpy.min.js",
+            "ext": "./饭太硬/js/88看球.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -410,7 +410,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/dj看球.json"
+            "ext": "./饭太硬/json/dj看球.json"
         },
         {
             "key": "csp_XYQBiu_310直播",
@@ -420,7 +420,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/310直播.json"
+            "ext": "./饭太硬/json/310直播.json"
         },
         {
             "key": "csp_XPath_企鹅体育",
@@ -430,7 +430,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/企鹅直播.json"
+            "ext": "./饭太硬/json/企鹅直播.json"
         },
         {
             "key": "csp_XBPQ_酷奇",
@@ -440,7 +440,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/酷奇MV.json"
+            "ext": "./饭太硬/json/酷奇MV.json"
         },
         {
             "key": "csp_XYQHiker_虎牙直播",
@@ -450,7 +450,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/虎牙直播.json"
+            "ext": "./饭太硬/json/虎牙直播.json"
         },
         {
             "key": "csp_XYQBiu_斗鱼",
@@ -460,7 +460,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/斗鱼直播.json"
+            "ext": "./饭太硬/json/斗鱼直播.json"
         },
         {
             "key": "csp_XBPQ_聚短视频",
@@ -470,7 +470,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/短视频.json"
+            "ext": "./饭太硬/json/短视频.json"
         },
         {
             "key": "csp_XYQHiker_有声小说吧",
@@ -480,7 +480,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/有声小说吧.json"
+            "ext": "./饭太硬/json/有声小说吧.json"
         },
         {
             "key": "七夜",
@@ -565,7 +565,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/皮皮鸭.json"
+            "ext": "./饭太硬/json/皮皮鸭.json"
         },
         {
             "key": "csp_XYQHiker素白白",
@@ -575,7 +575,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./json/素白白.json"
+            "ext": "./饭太硬/json/素白白.json"
         },
         {
             "key": "csp_Nbys",
@@ -608,8 +608,8 @@
             "key": "dr_兔小贝",
             "name": "📚儿童┃启蒙",
             "type": 3,
-            "api": "./drpy.min.js",
-            "ext": "./js/兔小贝.js",
+            "api": "./饭太硬/drpy.min.js",
+            "ext": "./饭太硬/js/兔小贝.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -622,7 +622,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/少儿教育.json"
+            "ext": "./饭太硬/json/少儿教育.json"
         },
         {
             "key": "小学课堂",
@@ -632,7 +632,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/小学课堂.json"
+            "ext": "./饭太硬/json/小学课堂.json"
         },
         {
             "key": "初中课堂",
@@ -642,7 +642,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/初中课堂.json"
+            "ext": "./饭太硬/json/初中课堂.json"
         },
         {
             "key": "高中教育",
@@ -652,7 +652,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/高中课堂.json"
+            "ext": "./饭太硬/json/高中课堂.json"
         },
         {
             "key": "ext_live_protocol",
@@ -1047,13 +1047,13 @@
         {
             "name": "live",
             "type": 0,
-            "url": "./live.txt",
+            "url": "./饭太硬/live.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
             "name": "TV",
             "type": 0,
-            "url": "./TV.txt",
+            "url": "./饭太硬/TV.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],
