@@ -1,0 +1,23 @@
+{ "urls": [{ "url": "clan://localhost/tvboxqq/饭太硬/api.json", "name": "线路1（饭太硬）" },
+
+{ "url": "clan://localhost/tvboxqq/肥猫/api.json", "name": "线路2（肥猫）" },
+
+{ "url": "clan://localhost/tvboxqq/夜猫子/api.json", "name": "线路3（夜猫子）" },
+
+{ "url": "clan://localhost/tvboxqq/运输车/api.json", "name": "线路4（运输车）"},
+
+{ "url": "clan://localhost/tvboxqq/dxawi/api.json", "name": "线路5（dxawi）" },
+
+{ "url": "clan://localhost/tvboxqq/多多/api.json", "name": "线路6（多多）" },
+
+{ "url": "clan://localhost/tvboxqq/香雅情/api.json", "name": "线路7（香雅情）" },
+
+{ "url": "clan://localhost/tvboxqq/菜妮丝/api.json", "name": "线路8（菜妮丝）" },
+
+{ "url": "clan://localhost/tvboxqq/巧儿/api.json", "name": "线路9（巧儿）" },
+
+{ "url": "clan://localhost/tvboxqq/南风/api.json", "name": "线路10（南风）" },
+
+{ "url": "clan://localhost/tvboxqq/js/api.json", "name": "线路11（JS）" },
+
+{ "url": "clan://localhost/tvboxqq/py/api.json", "name": "线路12（PY）" }]}
