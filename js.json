@@ -1718,6 +1718,45 @@
         }
     ],
     "parses": [
+        {"name":"解析聚合","type":3,"url":"Demo"},
+
+{"name":"腾讯专用","type":1,"url":"http://api.playaaaa.com/qq/00167kkkk.php?url="},
+
+{"name":"110","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="},
+
+{"name":"5566","type":1,"url":"http://47.119.122.235:5566/json/free.php?url="},
+
+{"name":"113","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
+
+{"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+
+{"name":"LLK","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
+
+{"name":"尘烟","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
+
+{"name":"ICU","type":1,"url":"https://api.json.icu/api/?key=5c22918440e3fa30cfd2da50264ff210&url="},
+
+{"name":"WT1","type":1,"url":"http://jxapi.wutao7.top/XL/?url="},
+
+{"name":"WT2","type":0,"url":"http://jxapi.wutao7.top/miui/?url="},
+
+{"name":"cf","type":0,"url":"https://jxjson.cf/?url="},
+
+{"name":"泽云","type":0,"url":"https://player.iizny.com/?url="},
+
+{"name":"JSPL","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+
+{"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+
+{"name":"CGD","type":0,"url":"https://www.cgdyw.net/jiexi/jiexi-gf/?url="},
+
+{"name":"夜幕", "type":0,"url":"https://www.yemu.xyz/?url=","showType":3},
+
+{"name":"JXDP","type":0,"url": "https://jxdp.codermart.net/?url="},
+
+{"name":"剖云","type":0,"url":"https://www.pouyun.com/?url="},
+
+{"name":"JY","type":0,"url":"https://jx.playerjy.com/?url="},
         {
             "name": "Web聚合",
             "type": 3,
